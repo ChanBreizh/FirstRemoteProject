@@ -3,3 +3,7 @@ tmp/*
 *.xml
 *.txt
 *.o
+tmp/*
+*.xml
+*.txt
+
